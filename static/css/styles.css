@@ -66,6 +66,7 @@ a:hover {
     padding: 10px;
     display: flex;
     margin-bottom: 10px;
+    color: #701b1b;
 }
 
 .title, .form_textarea {
@@ -74,6 +75,7 @@ a:hover {
     padding: 12px 0px;
     background-color: #2b9d4f;
     border: none;
+    color: #fff;
 }
 
 .form_submit {
